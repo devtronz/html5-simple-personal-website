@@ -1,7 +1,0 @@
-{
-  "name": "test-urgent",
-  "version": "1.0.0",
-  "dependencies": {
-    "@vercel/analytics": "^1.0.0"
-  }
-}
